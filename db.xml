@@ -180,31 +180,16 @@
 	</export>
 	<languages>
 		<public />
-		<id-00001>
-			<public />
-			<font type="string">Primordial</font>
-			<name type="string">Primordial</name>
-		</id-00001>
-		<id-00002>
-			<public />
-			<font type="string">Elven</font>
-			<name type="string">Aquan</name>
-		</id-00002>
 		<id-00003>
 			<public />
 			<font type="string">Elven</font>
-			<name type="string">Elvish</name>
+			<name type="string">Elven</name>
 		</id-00003>
 		<id-00004>
 			<public />
-			<font type="string">Celestial</font>
-			<name type="string">Celestial</name>
+			<font type="string">Baklunish</font>
+			<name type="string">Baklunish</name>
 		</id-00004>
-		<id-00005>
-			<public />
-			<font type="string">Infernal</font>
-			<name type="string">Infernal</name>
-		</id-00005>
 		<id-00006>
 			<public />
 			<font type="string">Dwarven</font>
@@ -218,49 +203,31 @@
 		<id-00008>
 			<public />
 			<font type="string">Draconic</font>
-			<name type="string">Draconic</name>
+			<name type="string">Draconian</name>
 		</id-00008>
-		<id-00009>
-			<public />
-			<font type="string">Infernal</font>
-			<name type="string">Abyssal</name>
-		</id-00009>
-		<id-00010>
-			<public />
-			<font type="string">Elven</font>
-			<name type="string">Sylvan</name>
-		</id-00010>
 		<id-00011>
 			<public />
 			<name type="string">Common</name>
 		</id-00011>
-		<id-00012>
-			<public />
-			<font type="string">Dwarven</font>
-			<name type="string">Terran</name>
-		</id-00012>
-		<id-00013>
-			<public />
-			<font type="string">Draconic</font>
-			<name type="string">Ignan</name>
-		</id-00013>
 		<id-00014>
 			<public />
-			<name type="string">Deep Speech</name>
+			<font type="string">Infernal</font>
+			<name type="string">-Deep Speech</name>
 		</id-00014>
 		<id-00015>
 			<public />
 			<font type="string">Draconic</font>
-			<name type="string">Auran</name>
+			<name type="string">-Auran</name>
 		</id-00015>
 		<id-00016>
 			<public />
+			<font type="string">Druidic</font>
 			<name type="string">Halfling</name>
 		</id-00016>
 		<id-00017>
 			<public />
 			<font type="string">Dwarven</font>
-			<name type="string">Orc</name>
+			<name type="string">Orcish</name>
 		</id-00017>
 		<id-00018>
 			<public />
@@ -270,13 +237,273 @@
 		<id-00019>
 			<public />
 			<font type="string">Dwarven</font>
-			<name type="string">Dwarvish</name>
+			<name type="string">Dwarven</name>
 		</id-00019>
 		<id-00020>
 			<public />
 			<font type="string">Dwarven</font>
 			<name type="string">Goblin</name>
 		</id-00020>
+		<id-00022>
+			<public />
+			<font type="string">Olman</font>
+			<name type="string">Olman</name>
+		</id-00022>
+		<id-00023>
+			<public />
+			<font type="string">Oeridian</font>
+			<name type="string">Oeridian</name>
+		</id-00023>
+		<id-00024>
+			<public />
+			<font type="string">Flan</font>
+			<name type="string">Flan</name>
+		</id-00024>
+		<id-00025>
+			<public />
+			<font type="string">Rhopan</font>
+			<name type="string">Rhopan</name>
+		</id-00025>
+		<id-00026>
+			<public />
+			<font type="string">Suloise</font>
+			<name type="string">Suloise</name>
+		</id-00026>
+		<id-00027>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Beastfolk</name>
+		</id-00027>
+		<id-00028>
+			<public />
+			<font type="string">Druidic</font>
+			<name type="string">Hobgoblin</name>
+		</id-00028>
+		<id-00029>
+			<public />
+			<font type="string">Druidic</font>
+			<name type="string">Gnoll</name>
+		</id-00029>
+		<id-00030>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Aarakocra</name>
+		</id-00030>
+		<id-00031>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Aspis</name>
+		</id-00031>
+		<id-00032>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Beholder</name>
+		</id-00032>
+		<id-00033>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Bugbear</name>
+		</id-00033>
+		<id-00034>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Bullywug</name>
+		</id-00034>
+		<id-00035>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Centaur</name>
+		</id-00035>
+		<id-00036>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Ettin</name>
+		</id-00036>
+		<id-00037>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Gargoyle</name>
+		</id-00037>
+		<id-00038>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Genie</name>
+		</id-00038>
+		<id-00039>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Grippli</name>
+		</id-00039>
+		<id-00040>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Grung</name>
+		</id-00040>
+		<id-00041>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Hook Horror</name>
+		</id-00041>
+		<id-00042>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Ixitxachitl</name>
+		</id-00042>
+		<id-00043>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Jermlaine</name>
+		</id-00043>
+		<id-00044>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Kobold</name>
+		</id-00044>
+		<id-00045>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Kuo-tuan</name>
+		</id-00045>
+		<id-00046>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Lammasu</name>
+		</id-00046>
+		<id-00047>
+			<public />
+			<font type="string">Druidic</font>
+			<name type="string">Lizard Man</name>
+		</id-00047>
+		<id-00048>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Locathah</name>
+		</id-00048>
+		<id-00049>
+			<public />
+			<font type="string">Druidic</font>
+			<name type="string">Medusain</name>
+		</id-00049>
+		<id-00050>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Merman</name>
+		</id-00050>
+		<id-00051>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Mindflayer</name>
+		</id-00051>
+		<id-00052>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Minotaur</name>
+		</id-00052>
+		<id-00053>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Naga</name>
+		</id-00053>
+		<id-00054>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Ogre</name>
+		</id-00054>
+		<id-00055>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Sahaugin</name>
+		</id-00055>
+		<id-00056>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Shedu</name>
+		</id-00056>
+		<id-00057>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Sphinx</name>
+		</id-00057>
+		<id-00058>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Tabaxi</name>
+		</id-00058>
+		<id-00059>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Taer</name>
+		</id-00059>
+		<id-00060>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Tasloi</name>
+		</id-00060>
+		<id-00061>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Titan</name>
+		</id-00061>
+		<id-00062>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Triton</name>
+		</id-00062>
+		<id-00063>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Troglodyte</name>
+		</id-00063>
+		<id-00064>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Troll</name>
+		</id-00064>
+		<id-00065>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Umber Hulk</name>
+		</id-00065>
+		<id-00066>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Wolf,Mist</name>
+		</id-00066>
+		<id-00067>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Yuan-ti</name>
+		</id-00067>
+		<id-00068>
+			<public />
+			<font type="string">Druidic</font>
+			<name type="string">Druidic</name>
+		</id-00068>
+		<id-00069>
+			<public />
+			<font type="string">Oeridian</font>
+			<name type="string">Nyrondese</name>
+		</id-00069>
+		<id-00070>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Dakon</name>
+		</id-00070>
+		<id-00071>
+			<public />
+			<font type="string">Common</font>
+			<name type="string">Derro</name>
+		</id-00071>
+		<id-00072>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Kech</name>
+		</id-00072>
+		<id-00073>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Tlaman</name>
+		</id-00073>
 	</languages>
 	<modifiers>
 		<public />
@@ -513,58 +740,79 @@
 						<order type="number">1</order>
 						<text type="formattedtext">
 							<linklist>
-								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00106@AD&amp;D 2E Complete Fighter's Handbook">Story: The Four Fighting Styles</link>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00106@AD&amp;D 2E Complete Fighter's Handbook">
+									<b>Story: The Four Fighting Styles</b>
+								</link>
 							</linklist>
 							<h>Fighting styles...</h>
 							<list>
 								<li>
-									<b>Single-weapon style</b> - AC: 1 w/ prof(1h)</li>
+									<b>Single-weapon style </b>- AC: 1 w/ prof(1h)</li>
 								<li>
-									<b>Two-handed style</b> - Speed -3 w/prof(2h). 1h wielded 2h +1 dmg</li>
+									<b>Two-handed style </b>- Speed -3 w/prof(2h). 1h wielded 2h +1 dmg</li>
 								<li>
-									<b>Weapon and shield style</b> - extra attk w/shield punch/parray @-2/-4</li>
+									<b>Weapon and shield style </b>- extra attk w/shield punch/parray @-2/-4</li>
 								<li>
-									<b>Two-weapon style</b> - 2w -0/-2. Ambidexrious -0/-0. Wield same size weapon&#13;</li>
+									<b>Two-weapon style </b>- 2w -0/-2. Ambidexrious -0/-0. Wield same size weapon&#13;</li>
 							</list>
 							<linklist>
-								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00117@AD&amp;D 2E Complete Fighter's Handbook">Story: Called Shots</link>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00117@AD&amp;D 2E Complete Fighter's Handbook">
+									<b>Story: Called Shots</b>
+								</link>
 							</linklist>
 							<h>Called Shots...</h>
 							<list>
 								<li>
-									<b>Standrd called shot</b> - +1 to init/-4 to hit ---&#62;</li>
-								<li>Striking a specific body part </li>
-								<li>Smashing something being held </li>
+									<b>Standard called shot </b>- +1 to init/-4 to hit ---&#62;</li>
+								<li>Striking a specific body part</li>
+								<li>Smashing something being held</li>
 								<li>Bypassing armor (finding the weakness, not ignoring armor class, see details)</li>
 								<li>
 									<b>Disarm..</b>
 								</li>
 								<li>
-									<b>A single handed weapon</b> - w/ lands 2d6ft away at 1d6dir.</li>
+									<b>A single handed weapon </b>- w/ lands 2d6ft away at 1d6dir.</li>
 								<li>
-									<b>A two-handed weapon</b> - 1st knock out-of-alignment. Use extra attack to fix grip or loose init next round fixing grip. W/ fully disarmed on 2 successes. Lands 1d6ft away at 1d6dir.</li>
+									<b>A two-handed weapon </b>- 1st knock out-of-alignment. Use extra attack to fix grip or loose init next round fixing grip. W/ fully disarmed on 2 successes. Lands 1d6ft away at 1d6dir.</li>
 								<li>
-									<b>A shield</b> - Knock shield out-of-alignment. Loose AC bonus rest round. Can use ext attack to fix grip.</li>
+									<b>A shield </b>- Knock shield out-of-alignment. Loose AC bonus rest round. Can use ext attack to fix grip.</li>
 								<li>
 									<b>Thrown-weapon/missile disarm </b>- only works vs. 1h weapons. Size (S) weapons @ -2 atk penalty.</li>
 								<li>
 									<b>Expert Disarm </b>- +2 to init/-8 to hit - send weapon anwhere you want in 12ft.</li>
 								<li>
-									<b>Grab</b> - On called shot success, hands on target, but .. opposed str check (who passed by more). See more detail below.</li>
+									<b>Grab </b>- On called shot success, hands on target, but .. opposed str check (who passed by more). See more detail below.</li>
 							</list>
 							<linklist>
-								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00125@AD&amp;D 2E Complete Fighter's Handbook">Story: Grab</link>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00125@AD&amp;D 2E Complete Fighter's Handbook">
+									<b>Story: Grab</b>
+								</link>
 							</linklist>
-							<p />
+							<list>
+								<li>announce, +1 init/-4 to hit</li>
+								<li>Control of object not assumed, struggle for control</li>
+								<li>same round 1d20 test, opponent does the same.</li>
+								<li>whomever rolled better against STR wins. For both parties w/exceptional STR and a tie, higher % STR wins.</li>
+							</list>
+							<linklist>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00136@AD&amp;D 2E Complete Fighter's Handbook">
+									<b>Pull/Trip</b>
+								</link>
+							</linklist>
+							<list>
+								<li>announce on attack turn, must describe how ( <b>may rule impossible </b>)</li>
+								<li>roll</li>
+							</list>
 							<linklist>
 								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00129@AD&amp;D 2E Complete Fighter's Handbook">Story: From this page</link>
+								<link class="" recordname="" />
 							</linklist>
 							<list>
 								<li>Pull/Trip</li>
 								<li>Pin</li>
 								<li>Parry</li>
 								<li>Sap</li>
-								<li>Sheild Punch and Rush</li>
+								<li>Shield Punch and Rush</li>
 								<li>Martial Arts</li>
 								<li>Surprise Flashy Maneuvers</li>
 								<li>Hit Locations</li>
@@ -641,8 +889,7 @@
 	<settings>
 		<sound>
 			<ss>
-				<authtoken type="string">9faecbd1f5c8c3bf394627e1edf9bf0ac719e7ba</authtoken>
-				<sessionid type="string">ae6b29a15c9b469589f988d94f7ed20f</sessionid>
+				<authtoken type="string">46ec457ec4a690883eb0e59c50e16c01c1cff231</authtoken>
 			</ss>
 		</sound>
 		<tokenlight>
