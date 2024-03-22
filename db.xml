@@ -45,7 +45,7 @@
 	<encounter />
 	<export>
 		<anyruleset type="number">0</anyruleset>
-		<author type="string">Spencer Gresoro</author>
+		<author type="string">Spencer Gresoro and Scoot</author>
 		<displayname type="string">Campaign Guide</displayname>
 		<file type="string">Campaign Guide</file>
 		<name type="string">Campaign Guide</name>
