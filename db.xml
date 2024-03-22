@@ -180,6 +180,16 @@
 	</export>
 	<languages>
 		<public />
+		<id-00001>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Kech</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Tlaman</name>
+		</id-00002>
 		<id-00003>
 			<public />
 			<font type="string">Elven</font>
@@ -494,16 +504,6 @@
 			<font type="string">Common</font>
 			<name type="string">Derro</name>
 		</id-00071>
-		<id-00072>
-			<public />
-			<font type="string">Infernal</font>
-			<name type="string">Kech</name>
-		</id-00072>
-		<id-00073>
-			<public />
-			<font type="string">Elven</font>
-			<name type="string">Tlaman</name>
-		</id-00073>
 	</languages>
 	<modifiers>
 		<public />
