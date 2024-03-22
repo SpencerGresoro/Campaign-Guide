@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.5" dataversion="20230911" release="35|CoreRPG:6">
+	<calendar>
+		<public />
+	</calendar>
+	<combattracker>
+		<public />
+	</combattracker>
+	<currencies>
+		<public />
+		<id-00001>
+			<public />
+			<name type="string">PP</name>
+			<value type="number">10</value>
+			<weight type="number">0.02</weight>
+		</id-00001>
+		<id-00002>
+			<public />
+			<name type="string">GP</name>
+			<value type="number">1</value>
+			<weight type="number">0.02</weight>
+		</id-00002>
+		<id-00003>
+			<public />
+			<name type="string">EP</name>
+			<value type="number">0.5</value>
+			<weight type="number">0.02</weight>
+		</id-00003>
+		<id-00004>
+			<public />
+			<name type="string">SP</name>
+			<value type="number">0.1</value>
+			<weight type="number">0.02</weight>
+		</id-00004>
+		<id-00005>
+			<public />
+			<name type="string">CP</name>
+			<value type="number">0.01</value>
+			<weight type="number">0.02</weight>
+		</id-00005>
+	</currencies>
+	<effects>
+		<public />
+	</effects>
+	<encounter />
+	<export>
+		<anyruleset type="number">0</anyruleset>
+		<author type="string">Spencer Gresoro</author>
+		<displayname type="string">Campaign Guide</displayname>
+		<file type="string">Campaign Guide</file>
+		<name type="string">Campaign Guide</name>
+		<playervisible type="number">0</playervisible>
+		<readonly type="number">0</readonly>
+		<recordtypes>
+			<background>
+				<entries />
+				<select type="number">1</select>
+			</background>
+			<battle>
+				<entries />
+				<select type="number">1</select>
+			</battle>
+			<battlerandom>
+				<entries />
+				<select type="number">1</select>
+			</battlerandom>
+			<charsheet>
+				<entries />
+				<select type="number">1</select>
+			</charsheet>
+			<class>
+				<entries />
+				<select type="number">1</select>
+			</class>
+			<effect>
+				<entries />
+				<select type="number">1</select>
+			</effect>
+			<hiddenstory>
+				<entries />
+				<select type="number">1</select>
+			</hiddenstory>
+			<image>
+				<entries />
+				<select type="number">1</select>
+			</image>
+			<item>
+				<entries />
+				<select type="number">1</select>
+			</item>
+			<modifier>
+				<entries />
+				<select type="number">1</select>
+			</modifier>
+			<npc>
+				<entries />
+				<select type="number">1</select>
+			</npc>
+			<quest>
+				<entries />
+				<select type="number">1</select>
+			</quest>
+			<race>
+				<entries />
+				<select type="number">1</select>
+			</race>
+			<skill>
+				<entries />
+				<select type="number">1</select>
+			</skill>
+			<soundset>
+				<entries />
+				<select type="number">1</select>
+			</soundset>
+			<spell>
+				<entries />
+				<select type="number">1</select>
+			</spell>
+			<story>
+				<entries />
+				<select type="number">1</select>
+			</story>
+			<storytemplate>
+				<entries />
+				<select type="number">1</select>
+			</storytemplate>
+			<table>
+				<entries />
+				<select type="number">1</select>
+			</table>
+			<treasureparcel>
+				<entries />
+				<select type="number">1</select>
+			</treasureparcel>
+		</recordtypes>
+		<recordviews>
+			<item>
+				<armor>
+					<select type="number">1</select>
+				</armor>
+				<gear>
+					<select type="number">1</select>
+				</gear>
+				<weapon>
+					<select type="number">1</select>
+				</weapon>
+			</item>
+			<npc>
+				<byhd>
+					<select type="number">1</select>
+				</byhd>
+				<byletter>
+					<select type="number">1</select>
+				</byletter>
+				<bytype>
+					<select type="number">1</select>
+				</bytype>
+			</npc>
+			<skill>
+				<bystat>
+					<select type="number">1</select>
+				</bystat>
+			</skill>
+			<spell>
+				<arcane>
+					<select type="number">1</select>
+				</arcane>
+				<byschool>
+					<select type="number">1</select>
+				</byschool>
+				<bysphere>
+					<select type="number">1</select>
+				</bysphere>
+				<divine>
+					<select type="number">1</select>
+				</divine>
+			</spell>
+		</recordviews>
+		<tokens />
+	</export>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<font type="string">Primordial</font>
+			<name type="string">Primordial</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Aquan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elvish</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Celestial</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Infernal</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Undercommon</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Abyssal</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sylvan</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<name type="string">Common</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Terran</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Ignan</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<name type="string">Deep Speech</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Auran</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00016>
+		<id-00017>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orc</name>
+		</id-00017>
+		<id-00018>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Giant</name>
+		</id-00018>
+		<id-00019>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarvish</name>
+		</id-00019>
+		<id-00020>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00020>
+	</languages>
+	<modifiers>
+		<public />
+	</modifiers>
+	<motd>
+		<public />
+	</motd>
+	<options>
+		<public />
+		<DDCL-custom type="string">images/decals/dnd2_decal.png@2E Assets</DDCL-custom>
+	</options>
+	<partysheet>
+		<public />
+	</partysheet>
+	<picture>
+		<public />
+	</picture>
+	<reference>
+		<refmanualdata>
+			<id-00001>
+				<blocks>
+					<id-00001>
+						<blocktype type="string">singletext</blocktype>
+						<frame type="string">yellow</frame>
+						<order type="number">1</order>
+						<text type="formattedtext">
+							<p />
+						</text>
+					</id-00001>
+				</blocks>
+				<name type="string">Single-Weapon Style</name>
+			</id-00001>
+			<id-00002>
+				<blocks>
+					<id-00003>
+						<blocktype type="string">singletext</blocktype>
+						<frame type="string">sidebar</frame>
+						<order type="number">1</order>
+						<text type="formattedtext">
+							<p>
+								<b>Single-Weapon Style:</b>
+							</p>
+							<list>
+								<li>AC: + 1 with any (prof) one-handed weapon.&#13;</li>
+							</list>
+							<p>
+								<b>Two-Handed Style:</b>
+							</p>
+							<list>
+								<li>Speed Factor -3 with any (prof) 2-handed weapon.</li>
+								<li>Certain 1-handed weapons can be wielded 2-handed for +1 dmg.&#13;</li>
+							</list>
+							<p>
+								<b>Weapon and Shield Style:</b>
+							</p>
+							<list>
+								<li>Extra attack with shield punch/parry at standard -2/-4 attack penalty.&#13;</li>
+							</list>
+							<p>
+								<b>Two-Weapon Style:</b>
+							</p>
+							<list>
+								<li>Bonus when fighting with two weapons -0/-2.</li>
+								<li>Ambidextrous -0/-0.</li>
+								<li>Can wield two same size weapons (i.e. 2x longswords)&#13;</li>
+							</list>
+							<linklist>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00106@AD&amp;D 2E Complete Fighter's Handbook">Reference Manaul:</link>
+							</linklist>
+						</text>
+					</id-00003>
+				</blocks>
+				<name type="string">Fighting Styles Summary</name>
+			</id-00002>
+			<id-00003>
+				<blocks>
+					<id-00001>
+						<blocktype type="string">singletext</blocktype>
+						<frame type="string">sidebar</frame>
+						<order type="number">1</order>
+						<text type="formattedtext">
+							<linklist>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00117@AD&amp;D 2E Complete Fighter's Handbook">
+									<b>Called Shot - Standard Modifier</b>
+								</link>
+							</linklist>
+							<list>
+								<li>+1 Penalty to Initiative</li>
+								<li>-4 Penalty to Hit</li>
+							</list>
+							<p>
+								<b>&#13;&#13;Disarm Single Handed Weapons:</b>
+							</p>
+							<list>
+								<li>Called Shot.</li>
+								<li>Weapon lands 2d6ft away at 1d6 direction relative to attacker.</li>
+							</list>
+							<linklist>
+								<link class="table" recordname="tables.id-00001@AD&amp;D 2E Complete Fighter's Handbook">Table: Disarm vs. Single-Handed Weapons</link>
+							</linklist>
+							<p>
+								<b>&#13;Disarm Two-Handed Weapon:</b>
+							</p>
+							<list>
+								<li>Called Shot.</li>
+								<li>1st succes knocks weapon out of alignment.</li>
+								<li>Next round lose init unless extra attack used to fix grip.</li>
+								<li>2nd success you've disarmed foe.</li>
+								<li>Weapon lands 1d6ft away at 1d6 direction.&#13;</li>
+							</list>
+							<p>
+								<b>Shield:</b>
+							</p>
+							<list>
+								<li>Called Shot.</li>
+								<li>Knock shield out of alignment.</li>
+								<li>Enemy looses shield bonus for rest of round.</li>
+								<li>May use extra attack to fix grip on shield, ending the effect.&#13;</li>
+							</list>
+							<p>
+								<b>Thrown-Weapons and Missile Disarm:</b>
+							</p>
+							<list>
+								<li>More difficult (S) size weapons @ additional -6 attack.</li>
+								<li>Won't work against two-handed weapons&#13;</li>
+							</list>
+							<p>
+								<b>Expert Disarm:</b>
+							</p>
+							<linklist>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00124@AD&amp;D 2E Complete Fighter's Handbook">Expert Disarms</link>
+							</linklist>
+							<list>
+								<li>+2 Initiative.</li>
+								<li>-8 to hit.</li>
+								<li>On success, send weapon anywhere you want within 12ft.&#13;</li>
+							</list>
+							<linklist>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00118@AD&amp;D 2E Complete Fighter's Handbook">Striking a specific body part.</link>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00119@AD&amp;D 2E Complete Fighter's Handbook">Smashing something being held.</link>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00120@AD&amp;D 2E Complete Fighter's Handbook">Bypassing armor.</link>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00121@AD&amp;D 2E Complete Fighter's Handbook">Special usage.</link>
+							</linklist>
+						</text>
+					</id-00001>
+				</blocks>
+				<name type="string">Called Shots Summary</name>
+			</id-00003>
+			<id-00004>
+				<blocks />
+			</id-00004>
+			<id-00005>
+				<blocks>
+					<id-00001>
+						<blocktype type="string">singletext</blocktype>
+						<frame type="string">sidebar</frame>
+						<order type="number">1</order>
+						<text type="formattedtext">
+							<p>
+								<b>Grab</b>
+							</p>
+							<linklist>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00125@AD&amp;D 2E Complete Fighter's Handbook">Grab</link>
+							</linklist>
+							<list>
+								<li>Trying to grab something/someone, called shot roll and oppose strength.</li>
+								<li>Both characters roll strength checks, whoever won their check better snatches the item/gets the hold.</li>
+								<li>Lots of factors/variables&#13;</li>
+							</list>
+							<linklist>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00127@AD&amp;D 2E Complete Fighter's Handbook">Grabbing a Monster</link>
+								<link class="referencemanualpage" recordname="reference.refmanualdata.id-00126@AD&amp;D 2E Complete Fighter's Handbook">Grabbing A Person</link>
+							</linklist>
+						</text>
+					</id-00001>
+				</blocks>
+				<name type="string">Grabbing Summary</name>
+			</id-00005>
+			<id-00006>
+				<blocks>
+					<id-00001>
+						<blocktype type="string">singletext</blocktype>
+						<frame type="string">sidebar</frame>
+						<order type="number">1</order>
+						<text type="formattedtext">
+							<p>
+								<b>Hold attack:</b>
+							</p>
+							<p>Just hit delay for your action.&#13;</p>
+							<p>
+								<b>Parry (special):</b>
+							</p>
+							<p>Roll hit vs. attacker. If success, attacker no damage. Must call upfront how many of your attacks will be parries. Polearm parries vs. people who aren't attacking you is an interesting concept. Can't parry missile attacks but can parry thrown weapons. Using a missile weapon to parry, like a bow, on success weapon breaks. Page 70.&#13;</p>
+							<p>
+								<b>Pin:</b>
+							</p>
+							<p>Try to pin a character's weapon arm, ect. -4 to hit, no init penalty. If successful, the enemy can't use their pinned weapon until pin is broken + you can't use the weapon you're using to pin. Round 1 - one chance - oppose strength like grab - if success can use all his remaining attacks and break free. If fail, the weapon pinned for rest of round, lose one of his attacks. Next round+ struggle/break roll does not count against attacks. Page 71.&#13;</p>
+							<p>
+								<b>Pull/Trip: </b>&#13;Knockdown - declare upfront or on turn. Describe. IF possible, normal attack. Then the enemy makes DEX check. See modifiers and use common sense to adjust. +6 target not moving, -3 target unaware of attack, ect. Page 71.&#13;</p>
+							<p>
+								<b>Sap:</b>
+							</p>
+							<p>Hitting over head to knockout. Must announce upfront, called shot @ -8 to hit. See Page 72.&#13;</p>
+							<p>
+								<b>Sheild Punch:</b>
+							</p>
+							<p>Normal attack roll, no bonus, dmg 1-3 + str bonus, rest of round you lose your shield AC, Good when you've dropped your weapon, or have your weapon pinned, ect. Page 72.&#13;</p>
+							<p>
+								<b>Shield Rush:</b>
+							</p>
+							<p>A combo of pull/trip and shield punch. 10ft away minimum, medium or greater size shield. Basically, run at target with hope of injuring or knocking down. Page 72.&#13;</p>
+							<p>
+								<b>Surprise and Flash Maneuvers:</b>
+							</p>
+							<p>Page 73.&#13;</p>
+							<p>
+								<b>Martial Arts:</b>
+							</p>
+							<p>Page 74 - 80.&#13;</p>
+							<p>
+								<b>Hit Locations:</b>
+							</p>
+							<p>Page 80.</p>
+						</text>
+					</id-00001>
+				</blocks>
+				<name type="string">Misc Combat Maneuvers </name>
+			</id-00006>
+			<id-00007>
+				<blocks>
+					<id-00001>
+						<blocktype type="string">singletext</blocktype>
+						<frame type="string">sidebar</frame>
+						<order type="number">1</order>
+						<text type="formattedtext">
+							<list>
+								<li>
+									<b>Fighting styles...</b>
+								</li>
+								<li>Single-weapon style</li>
+								<li>Two-handed style</li>
+								<li>Weapon and shield style</li>
+								<li>Two-weapon style&#13;</li>
+								<li>
+									<b>Called Shots...</b>
+								</li>
+								<li>Striking a specific body part</li>
+								<li>Smashing something being held</li>
+								<li>Bypassing armor (finding the weakness)</li>
+								<li>Special usages</li>
+								<li>Disarm..</li>
+								<li>A single handed weapon</li>
+								<li>A two-handed weapon</li>
+								<li>A shield</li>
+								<li>Grabbing&#13;</li>
+								<li>
+									<b>Misc...</b>
+								</li>
+								<li>Pull/Trip</li>
+								<li>Pin</li>
+								<li>Parry</li>
+								<li>Sap</li>
+								<li>Sheild Punch and Rush</li>
+								<li>Martial Arts</li>
+								<li>Surprise Flashy Maneuvers</li>
+								<li>Hit Locations</li>
+							</list>
+						</text>
+					</id-00001>
+				</blocks>
+				<name type="string">Combat Maneuvers Overview</name>
+			</id-00007>
+		</refmanualdata>
+		<refmanualindex>
+			<chapters>
+				<id-00001>
+					<name type="string">Campagin Guide</name>
+					<order type="number">1</order>
+					<subchapters>
+						<id-00002>
+							<name type="string">Combat</name>
+							<order type="number">1</order>
+							<refpages>
+								<id-00001>
+									<keywords type="string">dmg styles wielded shield 1-handed ac factor fighting two speed ambidextrous size +1 parry -3 summary weapons attack one-handed wield manaul reference longswords 2x penalty e bonus certain style -2 + extra single-weapon -4 standard can 2-handed two-handed -0 prof punch two-weapon weapon</keywords>
+									<listlink type="windowreference">
+										<class>story_book_page_advanced</class>
+										<recordname>reference.refmanualdata.id-00002</recordname>
+									</listlink>
+									<name type="string">Fighting Styles Summary</name>
+									<order type="number">1</order>
+								</id-00001>
+								<id-00002>
+									<keywords type="string">succes lose fix thrown-weapons size s init initiative bypassing 2nd 1d6 shots rest unless single called striking difficult lands foe relative 1st shot work -6 weapon direction shield 2d6ft 1d6ft ending usage modifier - round send armor looses away smashing next +1 handed attacker single-handed within part summary hit used may body attack specific 12ft something want anywhere special grip enemy +2 disarms expert weapons additional penalty disarm bonus missile -8 effect vs standard knocks table knock use held alignment disarmed -4 success extra two-handed</keywords>
+									<listlink type="windowreference">
+										<class>story_book_page_advanced</class>
+										<recordname>reference.refmanualdata.id-00003</recordname>
+									</listlink>
+									<name type="string">Called Shots Summary</name>
+									<order type="number">2</order>
+								</id-00002>
+								<id-00003>
+									<keywords type="string">called something grab oppose person roll variables factors hold lots monster gets item checks characters whoever strength snatches better trying shot won check summary someone grabbing</keywords>
+									<listlink type="windowreference">
+										<class>story_book_page_advanced</class>
+										<recordname>reference.refmanualdata.id-00005</recordname>
+									</listlink>
+									<name type="string">Grabbing Summary</name>
+									<order type="number">3</order>
+								</id-00003>
+								<id-00004>
+									<keywords type="string">using misc hope arts martial ac remaining roll bonus dex struggle enemy size knocking injuring locations init call basically greater parry attacks medium count minimum check weapons rest ect away round+ parries free turn oppose rush flash people dmg hold shield chance str bow 1-3 good dropped try 10ft makes sheild run fail can called shot combat many pin delay weapon arm -3 head hitting grab sap must breaks concept knockout + moving - round target +6 adjust successful interesting next unaware pinned attacker common character's modifiers trip hit broken see use attack strength describe action combo declare special knockdown thrown upfront maneuvers pull lose one penalty surprise damage normal -8 missile vs possible sense page break just attacking success will -4 punch announce polearm</keywords>
+									<listlink type="windowreference">
+										<class>story_book_page_advanced</class>
+										<recordname>reference.refmanualdata.id-00006</recordname>
+									</listlink>
+									<name type="string">Misc Combat Maneuvers </name>
+									<order type="number">4</order>
+								</id-00004>
+								<id-00005>
+									<keywords type="string">styles shield body fighting finding martial weakness smashing handed bypassing style hit shots overview grabbing single called something part special usages specific maneuvers flashy locations disarm armor surprise punch sheild sap parry arts trip single-weapon combat rush striking held two-handed misc pull pin two-weapon weapon</keywords>
+									<listlink type="windowreference">
+										<class>story_book_page_advanced</class>
+										<recordname>reference.refmanualdata.id-00007</recordname>
+									</listlink>
+									<name type="string">Combat Maneuvers Overview</name>
+									<order type="number">5</order>
+								</id-00005>
+							</refpages>
+						</id-00002>
+					</subchapters>
+				</id-00001>
+			</chapters>
+			<locked type="number">0</locked>
+		</refmanualindex>
+	</reference>
+	<settings>
+		<sound>
+			<ss>
+				<authtoken type="string">9faecbd1f5c8c3bf394627e1edf9bf0ac719e7ba</authtoken>
+				<sessionid type="string">ae6b29a15c9b469589f988d94f7ed20f</sessionid>
+			</ss>
+		</sound>
+		<tokenlight>
+			<public />
+			<id-00001>
+				<public />
+				<animspeed type="number">100</animspeed>
+				<animtype type="string">flicker</animtype>
+				<bright type="number">10</bright>
+				<color type="string">FFFFFCC3</color>
+				<dim type="number">10</dim>
+				<dimfalloff type="number">50</dimfalloff>
+				<duration type="number">60</duration>
+				<falloff type="number">25</falloff>
+				<name type="string">Candle</name>
+				<tag type="string">candle</tag>
+			</id-00001>
+			<id-00002>
+				<public />
+				<animspeed type="number">25</animspeed>
+				<animtype type="string">flicker</animtype>
+				<bright type="number">15</bright>
+				<color type="string">FFFFF3E1</color>
+				<dim type="number">15</dim>
+				<dimfalloff type="number">50</dimfalloff>
+				<duration type="number">30</duration>
+				<falloff type="number">25</falloff>
+				<name type="string">Torch</name>
+				<tag type="string">torch</tag>
+			</id-00002>
+			<id-00003>
+				<public />
+				<animspeed type="number">100</animspeed>
+				<bright type="number">40</bright>
+				<color type="string">FFF9FEFF</color>
+				<dim type="number">40</dim>
+				<dimfalloff type="number">50</dimfalloff>
+				<duration type="number">120</duration>
+				<falloff type="number">25</falloff>
+				<name type="string">Lantern</name>
+				<tag type="string">lantern</tag>
+			</id-00003>
+			<id-00004>
+				<public />
+				<animspeed type="number">100</animspeed>
+				<bright type="number">15</bright>
+				<color type="string">FF000000</color>
+				<dim type="number">15</dim>
+				<dimfalloff type="number">50</dimfalloff>
+				<duration type="number">0</duration>
+				<falloff type="number">25</falloff>
+				<name type="string">Spell - Darkness</name>
+				<tag type="string">darkness</tag>
+			</id-00004>
+			<id-00005>
+				<public />
+				<animspeed type="number">100</animspeed>
+				<bright type="number">20</bright>
+				<color type="string">FFFFF3E1</color>
+				<dim type="number">20</dim>
+				<dimfalloff type="number">50</dimfalloff>
+				<duration type="number">0</duration>
+				<falloff type="number">25</falloff>
+				<name type="string">Spell - Light</name>
+				<tag type="string">light</tag>
+			</id-00005>
+		</tokenlight>
+	</settings>
+	<story_book_list />
+	<tokenbag />
+</root>

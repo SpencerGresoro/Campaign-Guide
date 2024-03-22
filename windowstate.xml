@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<windowstate version="4.5" dataversion="20230911">
+	<window data="" class="moduleselection" pos="582,187,1325,824" />
+	<window data="" class="frameselect" pos="235,335,685,635" />
+	<window data="" class="records_dropwindow" pos="97,35,217,370" />
+	<window data="" class="refmanuals_dropwindow" pos="173,35,388,89" />
+	<window data="" class="menus_dropwindow" pos="22,35,142,350" />
+	<window data="" class="characterlist" pos="0,0,44,119" />
+	<window data="" class="menulist_window" pos="3,5,248,40" />
+	<window data="tables.id-00001@AD&amp;D 2E Complete Fighter's Handbook" class="table" pos="756,289,1106,689" />
+	<window data="reference.refmanualindex@AD&amp;D 2E Complete Fighter's Handbook" class="reference_manual" pos="-145,492,854,1143" />
+	<window data="reference.refmanualdata.id-00122@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="story_book_list" class="story_book_list" pos="377,125,777,525" />
+	<window data="reference.refmanualindex" class="reference_manual" pos="785,7,1860,703" />
+	<window data="tokenbag" class="tokenbag" pos="684,250,1179,729" />
+	<window data="encounter" class="masterindex" pos="696,254,1166,724" />
+	<window data="effects" class="effectlist" pos="389,123,1223,873" />
+	<window data="reference.refmanualdata.id-00106@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00117@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00118@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00119@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00120@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00121@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00123@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="141,8,790,657" />
+	<window data="reference.refmanualdata.id-00124@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="141,8,790,657" />
+	<window data="reference.refmanualdata.id-00125@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="141,8,790,657" />
+	<window data="reference.refmanualdata.id-00126@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00127@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00128@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00129@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00130@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00131@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00132@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00133@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00134@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00135@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00136@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00137@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00138@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00139@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00140@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00141@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00142@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00143@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00144@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00145@AD&amp;D 2E Complete Fighter's Handbook" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00002" class="referencemanualpage" pos="135,136,784,785" />
+	<window data="reference.refmanualdata.id-00003" class="referencemanualpage" pos="141,8,790,657" />
+</windowstate>
