@@ -11,7 +11,7 @@
 		<id-00001>
 			<public />
 			<name type="string">PP</name>
-			<value type="number">10</value>
+			<value type="number">5</value>
 			<weight type="number">0.02</weight>
 		</id-00001>
 		<id-00002>
@@ -180,6 +180,16 @@
 	</export>
 	<languages>
 		<public />
+		<id-00001>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Kech</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Tlaman</name>
+		</id-00002>
 		<id-00003>
 			<public />
 			<font type="string">Elven</font>
@@ -494,16 +504,6 @@
 			<font type="string">Common</font>
 			<name type="string">Derro</name>
 		</id-00071>
-		<id-00072>
-			<public />
-			<font type="string">Infernal</font>
-			<name type="string">Kech</name>
-		</id-00072>
-		<id-00073>
-			<public />
-			<font type="string">Elven</font>
-			<name type="string">Tlaman</name>
-		</id-00073>
 	</languages>
 	<modifiers>
 		<public />
